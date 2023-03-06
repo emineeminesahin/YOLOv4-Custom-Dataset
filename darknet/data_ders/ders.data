@@ -1,0 +1,5 @@
+classes = 1
+train = data_ders/train.txt
+valid = data_ders/test.txt
+names = data_ders/data_ders.names
+backup = backup
